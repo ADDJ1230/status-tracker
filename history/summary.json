@@ -4,19 +4,19 @@
     "url": "https://ramenetonjeu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ramenetonjeu.fr.ico",
     "slug": "ramene-ton-jeu",
-    "status": "down",
-    "uptime": "18.26%",
-    "uptimeDay": "18.26%",
-    "uptimeWeek": "18.26%",
-    "uptimeMonth": "18.26%",
-    "uptimeYear": "18.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
+    "time": 548,
+    "timeDay": 548,
+    "timeWeek": 548,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2023-03-27": 0
+      "2023-03-27": 28
     }
   }
 ]
