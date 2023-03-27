@@ -7,11 +7,11 @@ sites:
     url: https://ramenetonjeu.fr
 
 status-website:
-  baseUrl: /status-tracker
+  baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Infra de la base
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status of all my sites
+  introTitle: "**Live monitoring** of all my projects. "
+  introMessage: This page allows me to follow live the status of all my projects. (Made using the Svelte framework).
   navbar:
     - title: Status
       href: /
