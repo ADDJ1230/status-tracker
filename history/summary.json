@@ -4,7 +4,7 @@
     "url": "https://ramenetonjeu.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ramenetonjeu.fr.ico",
     "slug": "ramene-ton-jeu",
-    "status": "up",
+    "status": "down",
     "uptime": "95.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 390,
     "timeYear": 639,
     "dailyMinutesDown": {
+      "2023-11-01": 0,
       "2023-10-20": 87,
       "2023-08-29": 83,
       "2023-08-17": 16,
