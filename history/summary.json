@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ramenetonjeu.fr.ico",
     "slug": "ramene-ton-jeu",
     "status": "down",
-    "uptime": "44.56%",
+    "uptime": "44.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.68%",
+    "uptimeYear": "25.41%",
     "time": 741,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1017,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-08-14": 77,
+      "2024-08-15": 73,
+      "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
@@ -293,8 +294,7 @@
       "2023-11-01": 813,
       "2023-10-20": 87,
       "2023-08-29": 83,
-      "2023-08-17": 16,
-      "2023-08-16": 141
+      "2023-08-17": 16
     }
   }
 ]
